@@ -56,7 +56,7 @@ The Grim Reaper	0	1		1		39	29	wsc	War Scythe			5	5000	lpur	lpur						deadly		100
 Bane Ash	0	1		1		7	5	sst	Short Staff			5	5000	lgrn	lgrn						fire-min		4	4	fire-max		6	6	res-fire		50	50	mana		30	30	swing2		20	20	dmg%		50	60	skill	36	5	5	skill	37	2	2	cast2		10	10									splash	358	100	1	0
 Serpent Lord	0	1		1		12	9	lst	Long Staff			5	5000	cgrn	cgrn						dmg-pois	75	40	40	res-pois		50	50	skill	235	2	3	mana		10	10	dmg%		30	40	manasteal		100	100	reduce-ac		50	50	skill	230	2	4	cast2		10	10									splash	358	100	1	0
 Lazarus Spire	0	1		1		24	18	cst	Gnarled Staff			5	5000	lgry			invcstu				res-ltng		75	75	red-dmg		5	5	enr		15	15	skill	53	2	3	skill	49	2	3	skill	42	3	3	regen-mana		43	43	dmg-ltng		1	28	sor		1	1	cast2		40	40					splash	358	100	1	0
-The Salamander	0	1		1		28	21	bst	Battle Staff			5	5000	dred	dred						dmg-fire		15	32	res-fire		30	30	skill	51	1	1	skill	47	1	2	skill	37	2	3	fireskill		2	3	skill	383	1	2																	splash	358	100	1	0
+The Salamander	0	1		1		28	21	bst	Battle Staff			5	5000	dred	dred						dmg-fire		15	32	res-fire		30	30	skill	51	1	1	skill	47	1	2	skill	37	2	3	fireskill		2	3	skill	383	1	2	cast2		10	10													splash	358	100	1	0
 The Iron Jang Bong	0	1		1		38	28	wst	War Staff			5	5000	dyel	dyel						ac		30	30	cast3		30	50	dmg%		100	100	att%		50	50	skill	48	2	2	skill	46	2	2	skill	44	3	3	sor		2	2	cast2		10	10									splash	358	100	1	0
 Pluckeye	0	1		1		10	7	sbw	Short Bow			5	5000	cblu	cblu						att		28	28	dmg%		100	100	hp		10	10	light		2	2	manasteal		3	3	mana-kill		2	2	skill	11	1	2																					0
 Witherstring	0	1		1		18	13	hbw	Hunter�s Bow			5	5000	lred	lred						swing3		30	30	dmg-min		3	3	dmg-max		6	6	att		50	50	magicarrow		3	3	dmg%		40	50																									0
