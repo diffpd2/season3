@@ -1379,7 +1379,7 @@ CowBoss	ÿc4The Cow Queen
 IceBoss	ÿc4Nathkill The Numb
 TombBoss	ÿc4Toadflax the Tainted
 SewerBoss	ÿc4The Mad Philosopher
-SiegeBoss	ÿc4Elemgaard The Armorsmith
+SiegeBoss	ÿc4Elmegaard The Armorsmith
 ThroneBoss	ÿc4Indio The Insane
 torajanBoss	ÿc4The Great Worm
 ScarabDesc	ÿc1Dangerous Group Content}ÿc0Cube with a Tier 3 map to create a Dungeon
